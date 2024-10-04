@@ -27,6 +27,20 @@ I have attached the assignments that I submitted for the Oxford University Depar
 * NoneType 
   * NoneType: used to represent nothing -called None
 
+### Different ways to print outputs (print w/ commas vs. concatenation)
+
+* print w/ commas -a space is automatically assigned
+'''
+Input: print("Hello", "World)
+Output: Hello World
+'''
+
+* concatenation: joining two statements together -a space is not assigned
+'''
+Input: print("Hello" + "World)
+Output: HelloWorld
+'''
+
 Week 2: Python basics: built-in types, functions and methods, if statement
 
 Week 3: Python data structures: list, dictionaries, tuples; for...in loops
