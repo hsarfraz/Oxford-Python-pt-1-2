@@ -20,9 +20,12 @@ I have attached the assignments that I submitted for the Oxford University Depar
 * Numeric Types
   * int: These are whole numbers (ex. 10, 30, 40, etc.)
   * float: These are decimal numbers (ex. 10.6, 4.5, 67.8, etc.)
+* Text Types
   * str: words and sentences (ex. 'Hello', 'Nick', etc.)
+* Boolean Types
   * bool: True of False values -keep note of the uppercase
-  * None: used to represent nothing -called None
+* NoneType 
+  * NoneType: used to represent nothing -called None
 
 Week 2: Python basics: built-in types, functions and methods, if statement
 
