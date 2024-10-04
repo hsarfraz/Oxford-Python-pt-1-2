@@ -30,13 +30,13 @@ I have attached the assignments that I submitted for the Oxford University Depar
 ### Different ways to print outputs (print w/ commas vs. concatenation)
 
 * print w/ commas -a space is automatically assigned
-'''
+'''Python
 Input: print("Hello", "World)
 Output: Hello World
 '''
 
 * concatenation: joining two statements together -a space is not assigned
-'''
+'''Python
 Input: print("Hello" + "World)
 Output: HelloWorld
 '''
