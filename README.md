@@ -36,6 +36,11 @@ I have attached the assignments that I submitted for the Oxford University Depar
   * Input: `print("Hello" + "World)`
   * Output: HelloWorld
 
+### Static vs. Dynamic Languages
+
+* Python is **dynamically typed** (type checked at run-time). The variables can initially be assigned a value of one type, and then be reassigned a value of a different type
+* **Statically typed** languages (ex. C, C++, C#, Java) checks types at compile-time and only allows values of the same type to be assigned
+
 Week 2: Python basics: built-in types, functions and methods, if statement
 
 Week 3: Python data structures: list, dictionaries, tuples; for...in loops
