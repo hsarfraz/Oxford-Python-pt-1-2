@@ -8,13 +8,13 @@ Week 0: Course orientation
 
 Week 1: Introduction to Data Science. Introduction to Git and the Anaconda environment
 
-* Where Python is used
+* Where Python is used (**bolded** words are projects I need to try)
   * Web Dev: Frameworks such as Django & Flask
-  * Data Analysis: Libraries such as NumPy, Pandas, Matplotlib
-  * Internet of Things: Raspberry pi + Python
+  * **Data Analysis**: Libraries such as **NumPy**, **Pandas**, **Matplotlib**
+  * **Internet of Things**: **Raspberry pi**, **TinyML IoT Devices**
   * Web Scraping: Scrapy
   * Computer Vision: OpenCV
-  * Machine Learning: Sci-kit Learn, NLTK, TensorFlow
+  * **Machine Learning**: **Sci-kit Learn**, NLTK, **TensorFlow**
   * Game Dev: PyGame
 
 Week 2: Python basics: built-in types, functions and methods, if statement
