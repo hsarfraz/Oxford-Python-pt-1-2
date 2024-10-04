@@ -4,9 +4,7 @@ I have attached the assignments that I submitted for the Oxford University Depar
 
 # Python Programming for Data Science - Part 1 Syllabus Overview
 
-Week 0: Course orientation
-
-Week 1: Introduction to Data Science. Introduction to Git and the Anaconda environment
+## Week 1: Introduction to Data Science. Introduction to Git and the Anaconda environment
 
 * Where Python is used (**bolded** words are projects I need to try)
   * Web Dev: Frameworks such as Django & Flask
@@ -16,6 +14,15 @@ Week 1: Introduction to Data Science. Introduction to Git and the Anaconda envir
   * Computer Vision: OpenCV
   * **Machine Learning**: **Sci-kit Learn**, NLTK, **TensorFlow**
   * Game Dev: PyGame
+
+### Variable Types in Python
+
+* Numeric Types
+ * int: These are whole numbers (ex. 10, 30, 40, etc.)
+ * float: These are decimal numbers (ex. 10.6, 4.5, 67.8, etc.)
+ * str: words and sentences (ex. 'Hello', 'Nick', etc.)
+ * bool: True of False values -keep note of the uppercase
+ * None: used to represent nothing -called None
 
 Week 2: Python basics: built-in types, functions and methods, if statement
 
