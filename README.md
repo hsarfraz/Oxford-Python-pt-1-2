@@ -5,6 +5,7 @@ I have attached the assignments that I submitted for the Oxford University Depar
 # Python Programming for Data Science - Part 1 Syllabus Overview
 
 ## Week 1: Introduction to Data Science. Introduction to Git and the Anaconda environment
+[Week 1 Assignment](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/1.1_week1_assignment.ipynb)
 
 * Where Python is used (**bolded** words are projects I need to try)
   * Web Dev: Frameworks such as Django & Flask
