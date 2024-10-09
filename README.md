@@ -50,6 +50,17 @@ I have attached the assignments that I submitted for the Oxford University Depar
 
 ## Week 2: Python basics: built-in types, functions and methods, if statement
 
+Week 2 will focus on these topics:
+* Selection
+* Operators
+ * Comparison
+ * Arithmetic
+ * Logical
+* Iteration
+* Functions 
+
+Selection in Python (if-then-else statements)
+* Selection is when Python chooses to execute a certain line of code based on the condition given in the if-then-else statement
 
 
 Week 3: Python data structures: list, dictionaries, tuples; for...in loops
