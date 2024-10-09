@@ -64,7 +64,53 @@ Selection in Python (if-then-else statements)
 * Other languages: C, C++, C# and Java feature a switch statement and a ternary (?) operator as alternative ways to select between blocks of code
 * Switch is not present in Python, not is '?' used
 
+Comparison Operators
+* `>` | Greater than
+* `<` | Less than
+* `>=` | Greater than or Equal
+* `>=` | Less than or Equal
+* `==` | Equality
+* `!=` | Not Equal
 
+Arithmetic Operators
+* `+` | Addition
+* `-` | Subtraction
+* `/` | Division
+* `%` | Modulus (Gives the remainder from division)
+* `*` | Multiplication
+* `//` | Floor Division (rounds down in a decimal value. So 4.3 -> 4 and -4.3 -> -5)
+* `**` | Power of
+
+Logical/Boolean Operators (NOT bitwise opperators such as `&` and `|`)
+* `and` | logical AND
+* `or` | logical OR
+* `not` | logical NOT
+
+Iteration in Python
+* while loops: the loop will keep on going until the condition specified becomes false
+ ```
+i = 0
+while i < 3:
+ print('Loop', i)
+ i = i + 1
+#Output: 0, 1, 2
+```
+* for loops: the loop will execute the code under it until the range completes
+ ```
+for i in range(1,4):
+ print(i)
+#Output: 1, 2, 3
+```
+
+Functions in Python
+* A function is a block of code that performs a well defined task
+ ```
+def get_input():
+ return input('Please enter your name: ')
+
+name = get_input()
+print(name)
+```
 Week 3: Python data structures: list, dictionaries, tuples; for...in loops
 
 Week 4: NumPy
