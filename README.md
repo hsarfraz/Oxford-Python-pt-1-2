@@ -48,7 +48,9 @@ I have attached the assignments that I submitted for the Oxford University Depar
 * Selection: Conditional statements that will only execute a block of code once, if it is true
 * Iteration: Can repeat certain statements within a block, while the statement is true
 
-Week 2: Python basics: built-in types, functions and methods, if statement
+## Week 2: Python basics: built-in types, functions and methods, if statement
+
+
 
 Week 3: Python data structures: list, dictionaries, tuples; for...in loops
 
