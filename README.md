@@ -49,6 +49,7 @@ I have attached the assignments that I submitted for the Oxford University Depar
 * Iteration: Can repeat certain statements within a block, while the statement is true
 
 ## Week 2: Python basics: built-in types, functions and methods, if statement
+[Week 2 Assignment](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/1.2_week2_assignment.ipynb)
 
 Week 2 will focus on these topics:
 * Selection
