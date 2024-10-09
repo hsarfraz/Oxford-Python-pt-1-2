@@ -53,14 +53,16 @@ I have attached the assignments that I submitted for the Oxford University Depar
 Week 2 will focus on these topics:
 * Selection
 * Operators
- * Comparison
- * Arithmetic
- * Logical
+  * Comparison
+  * Arithmetic
+  * Logical
 * Iteration
 * Functions 
 
 Selection in Python (if-then-else statements)
 * Selection is when Python chooses to execute a certain line of code based on the condition given in the if-then-else statement
+* Other languages: C, C++, C# and Java feature a switch statement and a ternary (?) operator as alternative ways to select between blocks of code
+* Switch is not present in Python, not is '?' used
 
 
 Week 3: Python data structures: list, dictionaries, tuples; for...in loops
