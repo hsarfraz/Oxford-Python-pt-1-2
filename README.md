@@ -114,6 +114,42 @@ print(name)
 ```
 ## Week 3: Python data structures: list, dictionaries, tuples; for...in loops
 
+Content Overview
+* Concept of Data Structures
+ * Arrays
+ * String
+ * Lists
+ * Tuples
+ * Sets
+ * Dictionaries
+
+Data Structures
+* Unlike a variable, which stores one value at a time, a data structure is built to store a collection of values
+* **Indexed Structures** allow for random access (RAM) which allows a item to be located by the index location
+* **Non-indexed Structures** (referenced structures), on the other hand, are navigated sequentially.
+
+Arrays
+* Elements: The items in an array
+* Index: This is the numbering of elements inside a array
+* When defining an array it is important to declare the size of the array (how many elements it would store) 
+* Arrays can only store data **of the same type** that mentioned when declaring the array
+
+Strings (str)
+* Each string object is an immutable/fixed array of characters
+* Each character is a numbered position in the array (index)
+ * The numbering of the index starts at zero (ex. for the word "nick" the index would be n=0 i=1 c=2 k=3)
+
+Exploring more functions/methods for a class (str, int, etc.)
+* you can use the `dir()` function to get a list of the different types of functions/methods that you can use for that class (ex. `dir(str)` will return a list of methods that you can use on string classes, and example is the method `.find()` which will give you the position of a certain character)
+
+```
+name = "nick"
+name.find('c')
+#output: 2
+```
+Lists in Python
+
+
 ## Week 4: NumPy
 
 ## Week 5: Pandas for data science I 
