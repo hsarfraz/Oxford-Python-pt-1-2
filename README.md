@@ -112,18 +112,18 @@ def get_input():
 name = get_input()
 print(name)
 ```
-Week 3: Python data structures: list, dictionaries, tuples; for...in loops
+## Week 3: Python data structures: list, dictionaries, tuples; for...in loops
 
-Week 4: NumPy
+## Week 4: NumPy
 
-Week 5: Pandas for data science I 
+## Week 5: Pandas for data science I 
 
-Week 6: Pandas for data science II
+## Week 6: Pandas for data science II
 
-Week 7: Matplotlib for Data visualisation
+## Week 7: Matplotlib for Data visualisation
 
-Week 8: Object-oriented programming: classes, inheritance, and applications 
+## Week 8: Object-oriented programming: classes, inheritance, and applications 
 
-Week 9: Data gathering and cleaning. Text pre-processing for Natural Language Processing (NLP)
+## Week 9: Data gathering and cleaning. Text pre-processing for Natural Language Processing (NLP)
 
-Week 10: Introduction to experimental design
+## Week 10: Introduction to experimental design
