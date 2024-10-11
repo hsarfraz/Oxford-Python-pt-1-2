@@ -226,6 +226,11 @@ s
 #output: {1,2,3,4,5,6}
 ```
 
+Set Theory
+* Intersect $&cup$: The common values in both sets
+* Union $&cup$: All values from both sets + the common values
+* Difference: 
+
 ## Week 4: NumPy
 
 ## Week 5: Pandas for data science I 
