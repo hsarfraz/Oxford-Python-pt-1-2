@@ -227,9 +227,9 @@ s
 ```
 
 Set Theory
-* Intersect $&cup$: The common values in both sets
-* Union $&cup$: All values from both sets + the common values
-* Difference: 
+* Intersect $\cap$: The common values in both sets
+* Union $\cup$: All values from both sets + the common values
+* Difference $A \ B$: 
 
 ## Week 4: NumPy
 
