@@ -118,10 +118,10 @@ Content Overview
 * Concept of Data Structures
  * Arrays
  * String
- * Lists
- * Tuples
- * Sets
- * Dictionaries
+ * `[,]` Lists (mutable, we can modify it by adding or removing things)
+ * `(,)`Tuples (immutable)
+ * `{,}` Sets (unique values, duplicates are not printed)
+ * `{k:v}` Dictionaries (key and value pairs)
 
 Data Structures
 * Unlike a variable, which stores one value at a time, a data structure is built to store a collection of values
@@ -226,10 +226,55 @@ s
 #output: {1,2,3,4,5,6}
 ```
 
-Set Theory
-* Intersect $\cap$: The common values in both sets
-* Union $\cup$: All values from both sets + the common values
-* Difference $A \ B$: 
+Set Theory (the symbols used to execute the set theories below are known as bitwise opperators such as `&` and `|`)
+* Intersect $A \cap B$: The common values in both sets
+ ```
+s1 = {1,2,3,4,5,6}
+s2 = {4,5,6,7,8,9}
+s1 & s2
+#output: {4,5,6}
+```
+* Union ($A \cup B$): All values from both sets, including the common values
+```
+s1 = {1,2,3,4,5,6}
+s2 = {4,5,6,7,8,9}
+s1 | s2
+#output: {1,2,3,4,5,6,7,8,9}
+```
+* Difference ($A - B$): Only includes the values of one set (no common values are included)
+```
+s1 = {1,2,3,4,5,6}
+s2 = {4,5,6,7,8,9}
+s1 - s2
+#output: {1,2,3}
+```
+
+Dictionaries in Python
+* Dictionaries in python need to be specified by a key (word) to be able to get a value (definition)
+* Like a Set, dictionaries also use the `{}` but they include a colon to establish a key and value pair (ex. `{k:v}`)
+
+Append to a Dictionary
+```
+d = {'USA': 200, 'UK': 150, 'EU': 2}
+d['Asia'] = 30
+d
+#Output: {'USA': 200, 'UK': 150, 'EU': 2, 'Asia': 30}
+```
+
+Remove values from a Dictionary
+```
+d = {'USA': 200, 'UK': 150, 'EU': 2, 'Asia': 30}
+del d['Asia'] 
+d
+#Output: {'USA': 200, 'UK': 150, 'EU': 2}
+```
+
+Dictionary Keys and Values
+```
+d = {'USA': 200, 'UK': 150, 'EU': 2}
+print( d.keys() ) #Output: dict_keys(['USA', 'UK', 'EU'])
+print( d.values() ) #Output: dict_values([200, 150, 2])
+```
 
 ## Week 4: NumPy
 
