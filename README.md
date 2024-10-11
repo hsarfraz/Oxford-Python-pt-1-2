@@ -148,7 +148,83 @@ name.find('c')
 #output: 2
 ```
 Lists in Python
+* A list in python does use the subscript operator `[]` typically associated with an array. Elements in the list are also indexed/numbered
+* Lists in python are resizable, unlike static arrays which are fixed
+* Python lists can store elements of different types, whereas arrays are declared to store values of one type
 
+List Slicing
+```
+l = [1,2,3,4,5,6]
+l[2:4]
+#output: [3,4]
+```
+
+List Append
+```
+l = [1,2,3,4,5,6]
+l.append(7)
+#output: [1,2,3,4,5,6,7]
+```
+
+List Remove
+```
+l = [1,2,3,4,5,6]
+l.remove(7)
+#output: [1,2,3,4,5,6]
+```
+
+Tuples in Python
+* Tuples are constant (immutable) which means that once they are declared they can't be reassigned
+* Tuples are declared with `()`
+
+Re-assignment not permitted in tuples
+```
+t = (1,2,3,4,5,6)
+t[0] = 5
+#output: 'tuple' object does not support item assignment
+```
+
+Tuple count method
+```
+t = (1,1,1,4,5,6)
+t.count(1)
+#output: 3
+```
+
+Tuple index method
+```
+t = (1,1,1,4,5,6)
+t.index(5)
+#output: 4
+```
+
+Sets in Python
+* Sets in mathematics refer to a set of distinct numbers - there are no duplicates
+* It is possible to store duplicates in a python set, but only unique values will be printed
+* Sets are declared with `{}`
+* Sets are mutable (can change)
+
+Add to set
+```
+s = {1,2,3,4,5,6}
+s.add{7}
+#output: {1,2,3,4,5,6,7}
+```
+
+Set Duplicates
+```
+s = {1,2,3,4,5,6,1,2,3,4,5,6}
+s
+#output: {1,2,3,4,5,6}
+```
+
+Cast to set (convert list to set to see unique values)
+```
+l = [1,1,2,2,3,3,4,4,5,5,6,6]
+s = set(l)
+s
+#output: {1,2,3,4,5,6}
+```
 
 ## Week 4: NumPy
 
