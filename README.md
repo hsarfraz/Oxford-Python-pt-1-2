@@ -114,6 +114,8 @@ print(name)
 ```
 ## Week 3: Python data structures: list, dictionaries, tuples; for...in loops
 
+[Week 3 Assignment](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/1.1_week1_assignment.ipynb)
+
 Content Overview
 * Concept of Data Structures
  * Arrays
