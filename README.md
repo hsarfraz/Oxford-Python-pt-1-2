@@ -318,6 +318,63 @@ a
 #              [1.,1.]])
   ```
 
+Eye NumPy Method (used for correlations)
+```
+a = np.eye(2)
+a
+# Output: array([[1.,0.],
+#                [0., 1.]])
+```
+
+2D NumPy array
+```
+a = np.random.randint(8, size=(2,2))
+a
+#Output: array([[5, 3],
+#               [0, 7])
+```
+
+Array Attributes
+```
+a = np.random.randint(9, size=(3,3))
+print('size', a.size)
+print('shape', a.shape)
+print('dimensions', a.ndim)
+#Output: size: 9
+#        shape: (3,3)
+#        dimensions: 2
+```
+
+Array Indexing
+* This is how indexing works for array elements `x[start:stop:step]`
+* If left unspecified, the default values for the index are:
+ * `start=0`
+ *  `stop=size of dimension`
+ *  `step=1`
+
+Vectorization
+```
+a = np.array([1,2,3])
+b = np.array([4,5,6])
+c = np.sum(a * b)
+print(c)
+# Output: 32 = (1*4) + (2*5) + (3*6)
+```
+
+Boolean Masking
+```
+a = np.array([[1,2,3], [4,5,6], [7,8,9]])
+b = np.array([10,20,30])
+c = a + b
+mask = (c > 20)
+mask
+# Output: array([[False, True, True],
+#                [False, True, True],
+#                [False, True, True]])
+
+c[mask]
+#Output: array([22,33,25,36,28,39]) - only returns the TRUE values
+```
 ## Week 5: Pandas for data science I 
 
 ## Week 6: Pandas for data science II
