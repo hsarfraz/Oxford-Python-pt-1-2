@@ -310,7 +310,7 @@ a
 
 Multi-Dimensional NumPy Array
 * note how the dimensionality of the array is passed as a tuple
-* ```
+```
 a = np.ones((3,2))
 a
 #OuputL array([[1.,1.],
