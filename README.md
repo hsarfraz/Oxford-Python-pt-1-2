@@ -280,6 +280,44 @@ print( d.values() ) #Output: dict_values([200, 150, 2])
 
 ## Week 4: NumPy
 
+List vs. Arrays
+* Lists and Arrays in Python do use the subscript operator `[]` ro refer to specific elements
+* Elements in both, a array and list, are indexed
+* Lists in Python are resizeable, unlike static arrays which are fixed
+* Python lists can store elements of different types, whereas arrays are declared to store values of one type
+* Fixed-size arrays need to have the number of elements defined before hand, whereas flexible sized array collections don't need to have a pre-defined number of elements
+
+Overview of Numpy
+* Numerical Python (NumPy) is a package full of methods that can be used to perform useful operations on data
+* NumPy provides a convenient API (Application Programmable Interface) that provides a way to 'interface' with/operate on data
+* It is a more efficient way to search/sort/store data than the "loosely" typed nature of Python that we have seen so far.
+
+Casting/Up-Casting a NumPy array
+* Up-Casting is when you convert a variable from one data type to another
+```
+import numpy as np #this line will apply for the other code blocks as well
+a = np.array([1,2,3], dtype = 'float32')
+a
+#Output: array([1.,2.,3.,4.], dtype=float32)
+```
+
+NumPy arrange
+```
+a = mp.arrange(10)
+a
+#Output: array([0,1,2,3,4,5,6,7,8,9])
+```
+
+Multi-Dimensional NumPy Array
+* note how the dimensionality of the array is passed as a tuple
+* ```
+a = np.ones((3,2))
+a
+#OuputL array([[1.,1.],
+#              [1.,1.],
+#              [1.,1.]])
+  ```
+
 ## Week 5: Pandas for data science I 
 
 ## Week 6: Pandas for data science II
