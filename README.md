@@ -280,6 +280,8 @@ print( d.values() ) #Output: dict_values([200, 150, 2])
 
 ## Week 4: NumPy
 
+* [Part 1 of Week 4 Assignment -Basic NumPy Exercises](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/1.4_week4_pt1_assignment.ipynb)
+
 List vs. Arrays
 * Lists and Arrays in Python do use the subscript operator `[]` ro refer to specific elements
 * Elements in both, a array and list, are indexed
