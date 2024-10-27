@@ -380,6 +380,14 @@ c[mask]
 ```
 ## Week 5: Pandas for data science I 
 
+Pandas
+* Pandas is a package that supplies data analysis tools in python
+* Dataframes provide convenient formatiing to visualise the data source. CSV files and NumPy arrays are used as a source for these dataframes (GroupBy)
+* It provides useful functions from summaries and descriptive statisitcs of data, in addition to SQL joins
+
+Pandas Series
+* A series can be converted to a Pandas Dataframe (often used for timeseries analysis which will be explored later)
+
 ## Week 6: Pandas for data science II
 
 ## Week 7: Matplotlib for Data visualisation
