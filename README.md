@@ -388,6 +388,17 @@ Pandas
 Pandas Series
 * A series can be converted to a Pandas Dataframe (often used for timeseries analysis which will be explored later)
 
+```
+labels = ['a','b','c']
+my_list = [10,20,30]
+pd.Series(data=my_list,index=labels)
+
+# Output: a 10
+#         b 20
+#         c 30
+# dtype: int64
+```
+
 ## Week 6: Pandas for data science II
 
 ## Week 7: Matplotlib for Data visualisation
