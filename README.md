@@ -405,6 +405,14 @@ How to get the total na values in a DataFrame
 df.isna().sum()
 ```
 
+Using groupby on a DataFrame
+```
+df.groupby('salary').mean()
+
+# Output: salary age
+#         50000  25
+```
+
 Reading CSV values and converting it to a Dataframe
 ```
 import os #for establishing working directory
