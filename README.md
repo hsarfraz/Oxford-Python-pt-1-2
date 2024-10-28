@@ -388,6 +388,7 @@ Pandas
 Pandas Series
 * A series can be converted to a Pandas Dataframe (often used for timeseries analysis which will be explored later)
 
+Creating a Series 
 ```
 labels = ['a','b','c']
 my_list = [10,20,30]
@@ -397,6 +398,23 @@ pd.Series(data=my_list,index=labels)
 #         b 20
 #         c 30
 # dtype: int64
+```
+
+How to get the total na values in a DataFrame
+```
+df.isna().sum()
+```
+
+Reading CSV values and converting it to a Dataframe
+```
+import os #for establishing working directory
+os. getcwd() #getting current working directory
+path = 'C:/work/Mod 1/my_dir'
+os. chdir(path) #path would be the new working directory
+
+data = pd.read_csv('dataset.csv')
+df = pd.DataFrame(data)
+type(df)
 ```
 
 ## Week 6: Pandas for data science II
