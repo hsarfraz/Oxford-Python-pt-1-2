@@ -380,6 +380,8 @@ c[mask]
 ```
 ## Week 5: Pandas for data science I 
 
+* [Week 5 Assignment](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/1.5_week5_assignment.ipynb)
+
 Pandas
 * Pandas is a package that supplies data analysis tools in python
 * Dataframes provide convenient formatiing to visualise the data source. CSV files and NumPy arrays are used as a source for these dataframes (GroupBy)
