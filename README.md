@@ -429,6 +429,13 @@ type(df)
 
 ## Week 6: Pandas for data science II
 
+* [Tutorial of Concatenations and Joins of Pandas Data Frames](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/1.6_week6_Concatenations%20and%20Joins%20of%20Pandas%20Data%20Frames.ipynb)
+ * This tuorial uses `pd.concat()` and `pd.merge()` to show how the joining of two separate Pandas Dataframes work
+ * `pd.merge()` can be used to specify a specific type of join (such are inner, outer, left, or right)
+ *  `pd.concat()` can be used to stack two dataframes on top of each other (vertical stack)
+ * `pd.DataFrame.append()` stacks the dataframes vertically
+ * `pd.DataFrame.join()` joins based on the indexes
+
 ## Week 7: Matplotlib for Data visualisation
 
 ## Week 8: Object-oriented programming: classes, inheritance, and applications 
