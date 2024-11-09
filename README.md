@@ -436,6 +436,11 @@ type(df)
    * `pd.DataFrame.append()` stacks the dataframes vertically
    * `pd.DataFrame.join()` joins based on the indexes
 
+* [Tutorial on how to use the `map()`, `filter()`, and `functools.reduce()` functions
+  * `map(func, iterable)` applies the function 'func' evenly to all the items in the 'iterable' object
+  * `filter(func, iterable)` takes in 'func' as a boolean condition. All the items in 'iterable' for which 'func' returns False are filtered out
+  * `functools.reduce(func, iterable[ ,iterable])` applies a function of two arguments, 'func', cumulatively to the elements of 'iterable', optionally starting with an initial argument
+
 ## Week 7: Matplotlib for Data visualisation
 
 ## Week 8: Object-oriented programming: classes, inheritance, and applications 
