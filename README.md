@@ -441,6 +441,11 @@ type(df)
   * `filter(func, iterable)` takes in 'func' as a boolean condition. All the items in 'iterable' for which 'func' returns False are filtered out
   * `functools.reduce(func, iterable[ ,iterable])` applies a function of two arguments, 'func', cumulatively to the elements of 'iterable', optionally starting with an initial argument
 
+ Data Manipulation in Python
+
+ * Pandas and Numpy offer vectorized (column-wise operations) ways to perform data manipulation
+   * ex. `df['BMI'] = df['Weight (kg)']/df['Height (cm)']/100)**2` would go through each row in the 'weight' and 'height' column without the need to use a for-loop
+
 ## Week 7: Matplotlib for Data visualisation
 
 ## Week 8: Object-oriented programming: classes, inheritance, and applications 
