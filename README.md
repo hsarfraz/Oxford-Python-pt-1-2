@@ -446,6 +446,10 @@ type(df)
  * Pandas and Numpy offer vectorized (column-wise operations) ways to perform data manipulation
    * ex. `df['BMI'] = df['Weight (kg)']/df['Height (cm)']/100)**2` would go through each row in the 'weight' and 'height' column without the need to use a for-loop
 
+Quantitative Variables (Discrete & Continuous) and Categorical Variables (Ordinal & Nominal)
+<img src="image/variable types.jpg" width="700">
+
+
 ## Week 7: Matplotlib for Data visualisation
 
 ## Week 8: Object-oriented programming: classes, inheritance, and applications 
