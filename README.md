@@ -450,6 +450,12 @@ Quantitative Variables (Discrete & Continuous) and Categorical Variables (Ordina
 <img src="image/variable types.jpg" width="700">
 
 
+Correlation Coefficient meaning
+
+A correlation coefficient tells us the strength of two or more variables and their direction (positive or negative facing). The graph below illustrates the different types of correlations and the chart below also shows how to interpret each correlation number.
+<img src="image/correlation graph illustration.jpg" width="700">
+<img src="image/correlation interpretation.jpg" width="700">
+
 ## Week 7: Matplotlib for Data visualisation
 
 ## Week 8: Object-oriented programming: classes, inheritance, and applications 
