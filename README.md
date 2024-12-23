@@ -462,4 +462,37 @@ A correlation coefficient tells us the strength of two or more variables and the
 
 ## Week 9: Data gathering and cleaning. Text pre-processing for Natural Language Processing (NLP)
 
+NLP Terminology 
+* **Corpus**: A collection of documents
+* **Token**: A well-defined unit inside a document. It can be a word or a sub-word
+* **Vector**: A mathematically convenient representation of a document
+* **Model**: An algorithm for transforming vectors from one representation to another
+
+Text pre-processing
+
+Text pre-processing consists of three steps
+* **tokenizing** strings and giving an integer id for each possible token (ex. using white spaces and punctuation as token separators)
+* some form of **vecorisation** such as:
+  * counting the occurrences of tokens in each document
+  * normalizing and weighting with diminishing importance tokens that occue in a plurality of samples
+  * word embeddings
+
+Tokenization (breaking text into 'tokens')
+
+* Tokenization is the process of breaking down text into smaller meaningful units called tokens
+* This crucial step prepares the text for further natural language processing tasks such as part-of-speech tagging and sentiment analysis
+
+```
+#imput: "Hey Nick! How are you?"
+#tokens = ['Hey', 'Nick', '!', 'How', 'are', 'you', '?']
+```
+
+Vectorisation
+
+* Problem: neural network models and statistical methods do not understand strings and characters. Therefore, we would need to convert the strings/characters into numbers so they can be used. This process is called vectorisation
+* Vectorisation methods
+  * Word Embeddings
+  * Bag of Words (BoW)
+  * Term Frequencey-Inverse Document Frequency (TF-IDF) 
+
 ## Week 10: Introduction to experimental design
