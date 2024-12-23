@@ -496,6 +496,7 @@ Vectorisation
   * Term Frequencey-Inverse Document Frequency (TF-IDF)
  
  Example of NLP pipeline
+ 
  <img src="image/example_of_NLP_pipeline.jpg" width="700">
 
 ## Week 10: Introduction to experimental design
