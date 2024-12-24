@@ -499,4 +499,16 @@ Vectorisation
  
  <img src="image/example_of_NLP_pipeline.jpg" width="700">
 
+ How to interpret a confusion matrix
+
+ <img src="image/1.9_confusion_matrix.jpg" width="700">
+
+ How to interpret a classification report
+
+1. Precision: Percentage of correct positive predictions relative to total positive predictions.
+
+2. Recall: Percentage of correct positive predictions relative to total actual positives.
+
+3. F1 Score: A weighted harmonic mean of precision and recall. The closer to 1, the better the model.
+
 ## Week 10: Introduction to experimental design
