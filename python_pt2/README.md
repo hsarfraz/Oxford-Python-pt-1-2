@@ -10,6 +10,12 @@ Data Science Lifecycle (not all of these steps have to be taken but here are the
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/data%20science%20lifecycle.jpg?raw=true)
 
+Data Types
+
+1. Structured (tabular)
+2. Semi-Structured (JSON, XML)
+3. Unstructured (Images, text) 
+
 ## Week 2: Overview of a data-science preprocessing pipeline
 
 ## Week 3: Supervised Learning: Regression
