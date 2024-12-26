@@ -57,6 +57,9 @@ Overfitting and Regularisation
 * Overfitting is when the model performs well on the training data but it does not generalize well with new data
 * Regularisation is when you make a model simple to reduce the risk of overfitting
 
+Machine Learning Model Data Training Process
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/training_testing_validation_data_process.jpg?raw=true)
 
 ## Week 2: Overview of a data-science preprocessing pipeline
 
