@@ -2,6 +2,10 @@
 
 ## Week 1: Introduction to the Course / ML / Linear Regression
 
+Skills needed for data science (Math & Stats, Computer Science, Subject Matter Expertise)
+<img src="image/data science skills.jpg" width="700">
+
+
 ## Week 2: Overview of a data-science preprocessing pipeline
 
 ## Week 3: Supervised Learning: Regression
