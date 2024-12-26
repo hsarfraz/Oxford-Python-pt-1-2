@@ -52,6 +52,11 @@ Instance-based vs. Model-based learning
 * Instance-based (K-nearest neighbors): the model memorises the instances that they can seen in the training data and try to identify those patterns in the testing data
 * Model-based (neural networks): the model used the neural network to identiy patterns/groups in the training data
 
+Overfitting and Regularisation
+
+* Overfitting is when the model performs well on the training data but it does not generalize well with new data
+* Regularisation is when you make a model simple to reduce the risk of overfitting
+
 
 ## Week 2: Overview of a data-science preprocessing pipeline
 
