@@ -22,6 +22,36 @@ Traditional Computing vs. Machine Learning
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/traditional_computing_vs_ML.jpg?raw=true)
 
+Types of ML models (3 checks that you have to perform)
+
+1. Ask whether the ML model is trained with human supervision (Supervised, Unsupervised, and Reinforcement Learning)
+2. Can the model learn incrementally, on the spot? (online vs. batch learning)
+3. Can the model compare new data points to known data points or does it detect patterns in the training data and build a predictive model (instance-based vs. model-based learning)
+
+Supervised Learning (Classification & Regression)
+
+* Classification: the data points are assigned a label
+* Regression: In regression, the label belongs to a continuous range so you are trying to predict the function.
+* Supervised learning examples: k-Nearest Neighbors, Linear Regression, Logistic Regression, Naive Bayes Classification, Support Vector Machines (SVMs), Gaussian Processes, Decision Trees and Random Forests, Ensemble Methods, Neural Networks
+
+Unsupervised Learning (Clustering, Anomaly Detection, Dimensionality Reduction, Neural Networks)
+
+* In unsupervised learning, the data does not have any labels so the ML model would need to identify patterns and create its own groups
+
+Reinforcement Learning (Markov Decision Processes, Q-Learning)
+
+* The computer program makes decisions and gets notified if it has made a good or bad decision. Based on this feedback, the computer program learns from its previous performance when making another decision
+
+Batch vs. Online Learning
+
+* Batch: Batch learning systems can't learn incrementally and can only be trained using available data. These types of systems can be trained offline and can then be launched into production
+* Online: Systems that can be trained incrementally since they receive data sequentially either individually or in small groups called mini-batches
+
+Instance-based vs. Model-based learning
+
+* Instance-based (K-nearest neighbors): the model memorises the instances that they can seen in the training data and try to identify those patterns in the testing data
+* Model-based (neural networks): the model used the neural network to identiy patterns/groups in the training data
+
 
 ## Week 2: Overview of a data-science preprocessing pipeline
 
