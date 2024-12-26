@@ -14,7 +14,14 @@ Data Types
 
 1. Structured (tabular)
 2. Semi-Structured (JSON, XML)
-3. Unstructured (Images, text) 
+3. Unstructured (Images, text)
+
+Traditional Computing vs. Machine Learning
+
+* The main difference between traditional computing and ML is that in traditional computing you define your own set of rules for the program to follow but in ML, the program is given the data and will set the rules by itself
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/traditional_computing_vs_ML.jpg?raw=true)
+
 
 ## Week 2: Overview of a data-science preprocessing pipeline
 
