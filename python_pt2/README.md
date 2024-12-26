@@ -6,6 +6,10 @@ Skills needed for data science (Math & Stats, Computer Science, Subject Matter E
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/data%20science%20skills.jpg?raw=true)
 
+Data Science Lifecycle (not all of these steps have to be taken but here are the general steps)
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/data%20science%20lifecycle.jpg?raw=true)
+
 ## Week 2: Overview of a data-science preprocessing pipeline
 
 ## Week 3: Supervised Learning: Regression
