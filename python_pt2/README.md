@@ -5,6 +5,8 @@
 Skills needed for data science (Math & Stats, Computer Science, Subject Matter Expertise)
 <img src="python_pt2/images2/data science skills.jpg" width="700">
 
+![alt text](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/image/data science skills.jpg?raw=true)
+
 
 ## Week 2: Overview of a data-science preprocessing pipeline
 
