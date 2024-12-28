@@ -63,6 +63,17 @@ Machine Learning Model Data Training Process
 
 ## Week 2: Overview of a data-science preprocessing pipeline
 
+Steps needed in a Machine Learning Project
+
+1. Understand the business problem
+2. Get the data (this step can be hard especially whenit comes to cleaning data)
+3. Discover and visualise the data to gain insights
+4. Prepare the data for the Machine Learning algorithm
+5. Select a model and train it
+6. Fine-tune your model
+7. Present your solution
+8. Launch, monitor, and maintain your system
+
 ## Week 3: Supervised Learning: Regression
 
 ## Week 4: Supervised Learning: Classification
