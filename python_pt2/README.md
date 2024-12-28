@@ -84,6 +84,16 @@ Objective: to be able to predict the house prices in Kings County, Washington, U
     *  The price of houses is a continuous variable and not a categorical variable
 * Should you use batch learning or online learning techniques?
     *   Batch learning can be used since there isn't a huge number of datasets to process. Online learning would be needed if there were millions (or billions) of datasets that exsisted online.
+ 
+Things to observe in datasets to gain insights
+
+*  Name of each attribute and its characteristics
+*  Variable/attribute Type (categorical, int/float, bounded/unbounded, text, structured)
+*  % of missing values
+*  Noisiness and type of noise (stochastic, outliers, rounding errors, etc)
+*  Usefulness for the task
+*  Type of distribution (Gaussian, Uniform, Logarithmic)
+*  For supervised learning tasks, identify the target attributes (what is variable gives the output)
 
 ## Week 3: Supervised Learning: Regression
 
