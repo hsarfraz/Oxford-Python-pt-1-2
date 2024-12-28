@@ -74,6 +74,17 @@ Steps needed in a Machine Learning Project
 7. Present your solution
 8. Launch, monitor, and maintain your system
 
+Understanding the problem and the type of ML model that needs to be used
+
+Objective: to be able to predict the house prices in Kings County, Washington, US
+
+* Is it supervised, unsupervised, or reinforcement learning?
+    *  Supervised learning is required to predict the house prices in King County since you need samples of house pricing data to train the ML model to make predictions
+* Is it a classification task, a regression task, or something else?
+    *  The price of houses is a continuous variable and not a categorical variable
+* Should you use batch learning or online learning techniques?
+    *   Batch learning can be used since there isn't a huge number of datasets to process. Online learning would be needed if there were millions (or billions) of datasets that exsisted online.
+
 ## Week 3: Supervised Learning: Regression
 
 ## Week 4: Supervised Learning: Classification
