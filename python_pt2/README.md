@@ -85,7 +85,7 @@ Objective: to be able to predict the house prices in Kings County, Washington, U
 * Should you use batch learning or online learning techniques?
     *   Batch learning can be used since there isn't a huge number of datasets to process. Online learning would be needed if there were millions (or billions) of datasets that exsisted online.
  
-Things to observe in datasets to gain insights
+Step 1: Things to observe in datasets to gain insights
 
 *  Name of each attribute and its characteristics
 *  Variable/attribute Type (categorical, int/float, bounded/unbounded, text, structured)
@@ -94,6 +94,14 @@ Things to observe in datasets to gain insights
 *  Usefulness for the task
 *  Type of distribution (Gaussian, Uniform, Logarithmic)
 *  For supervised learning tasks, identify the target attributes (what is variable gives the output)
+
+Step 2: Ways to gain insights from data
+
+* Visualize the data
+* Study the correlations between attributes
+* Study how you would solve the problem manually
+* Identify the promising transformations you may want to apply
+* Identify extra data that would be useful
 
 ## Week 3: Supervised Learning: Regression
 
