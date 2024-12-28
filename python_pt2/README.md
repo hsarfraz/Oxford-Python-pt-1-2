@@ -107,6 +107,8 @@ Simple Statisitics: Sampling
 
 * A sample aims to represent the whole population 
 
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/sampling.jpg?raw=true)
+
 Simple Statisitics: Data, Variables, and Distributions
 
 
