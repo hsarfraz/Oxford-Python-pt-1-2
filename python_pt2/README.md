@@ -103,6 +103,14 @@ Step 2: Ways to gain insights from data
 * Identify the promising transformations you may want to apply
 * Identify extra data that would be useful
 
+Simple Statisitics: Sampling
+
+* A sample aims to represent the whole population 
+
+Simple Statisitics: Data, Variables, and Distributions
+
+
+
 ## Week 3: Supervised Learning: Regression
 
 ## Week 4: Supervised Learning: Classification
