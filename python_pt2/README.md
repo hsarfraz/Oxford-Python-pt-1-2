@@ -181,10 +181,6 @@ $$
 Cov(x,y) = \frac{Cov(x,y)}{s_x s_y} =\frac{1}{N-1} \sum_{i=1}^{N} \frac{(x_i-\overline{x})*(y_i-\overline{y})}{s_x s_y})
 $$
 
-$$
-Cov(x,y) = \frac{Cov(x,y)}{s_x*s_y} = \frac{1}{N-1} \sum_{i=1}^{N} \frac{(x_i-\overline{x})*(y_i-\overline{y})}{s_x*s_y}
-$$
-
 Hence, the correlation matrix C for x and y is:
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/pearsons_correlation_coefficient.jpg?raw=true)
