@@ -111,7 +111,17 @@ Simple Statisitics: Sampling
 
 Simple Statisitics: Data, Variables, and Distributions
 
+* Univariate and multivariate represent two approaches to statistical analysis. Univariate involves the analysis of a single variable in your data while multivariate analysis examines two or more variables
+* Variables can be: quantitative, categorical, ordinal
+* The variable distribution describes how many times a value appears in the dataset
 
+Simple Statisitics: Characteristics of a distribution
+
+* Central tendency: Do the values cluster around a particular point?
+* Modes: Is there more than one cluster?
+* Spread: How much variability is there in the values?
+* Tails: How quickly does the probability drop off as we move away from the modes?
+* Outliers: Are there extreme values far from the mode?
 
 ## Week 3: Supervised Learning: Regression
 
