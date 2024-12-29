@@ -123,6 +123,17 @@ Simple Statisitics: Characteristics of a distribution
 * Tails: How quickly does the probability drop off as we move away from the modes?
 * Outliers: Are there extreme values far from the mode?
 
+Summary Statistics: Central Tendency
+
+* Mean: Central tendency of the distribution
+
+$$
+\overline{x} = \frac{1}{N} * \sum_{i=1}^{N} * x_i
+$$
+
+* Median: The middle value in the dataset, one ordered
+* Mode: The value (integer or categorical) that occur most frequently
+
 ## Week 3: Supervised Learning: Regression
 
 ## Week 4: Supervised Learning: Classification
