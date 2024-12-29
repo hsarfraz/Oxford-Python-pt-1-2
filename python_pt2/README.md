@@ -160,11 +160,18 @@ $$
 Simple Statistics: Covariance
 
 * If we have N samples $(x_i,y_i)$ from a bivariate distribution where i=1,...,N the covariance is an estimate of how variation in x is related to variation in y
+* In simple terms, covariance lets us know the relationship between two or more variables
 * The covariance is defined as:
 
 $$
 Cov(x,y) = \frac{1}{N-1} \sum_{i=1}^{N} (x_i - \overline{x})*(y_i - \overline{y})
 $$
+
+Simple Statistics: Covariance Matrix
+
+* For multivariate data, variance and covariance can be expressed together in a covariance matrix V:
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/covariance_matrix.jpg?raw=true)
 
 ## Week 3: Supervised Learning: Regression
 
