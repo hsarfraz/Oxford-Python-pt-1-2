@@ -142,6 +142,16 @@ Summary Statistics: Quantiles
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/quartiles.jpg?raw=true)
 
+Simple Statistics: Spread
+
+* Variance: Describes the variability or spread of a distribution around the mean value
+* The square root of the variance is the standard deviation (s)
+* Bessel's correction formula:
+
+$$
+s**2 = \frac{1}{N-1} \sum_{i=1}^{N} (x_i - \overline{x})**2
+$$
+
 
 ## Week 3: Supervised Learning: Regression
 
