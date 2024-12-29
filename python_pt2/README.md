@@ -132,7 +132,16 @@ $$
 $$
 
 * Median: The middle value in the dataset, one ordered
+   * The median is a more robust estimator than the mean as it is less susceptible to outliers (values that differ substantially from the rest of the data) 
 * Mode: The value (integer or categorical) that occur most frequently
+
+Summary Statistics: Quantiles
+
+* Quantiles are cut points dividing the range of a distribution into continuous intervals with equal frequencies probability
+* Quartiles in statistics are values that divide your data into quarters
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/quartiles.jpg?raw=true)
+
 
 ## Week 3: Supervised Learning: Regression
 
