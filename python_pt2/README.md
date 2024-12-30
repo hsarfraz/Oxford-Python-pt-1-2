@@ -214,6 +214,8 @@ Choose some Algorithms
 * Something else (Support Vector Machines, Neural Networks...)
 * Ensemble Models, Random Forests
 
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/linear_regression.jpg?raw=true)
+
 ## Week 4: Supervised Learning: Classification
 
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
