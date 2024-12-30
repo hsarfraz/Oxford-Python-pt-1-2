@@ -197,7 +197,7 @@ Regression Performance Measures/Metrics
 * Mean Square Error
 
 $$
-MSE = \frac{1}{N} = \sum_{i=1}^{N} (y_i-\hat{y})^2
+MSE = \frac{1}{N} \sum_{i=1}^{N} (y_i-\hat{y})^2
 $$
 
 ## Week 4: Supervised Learning: Classification
