@@ -216,6 +216,11 @@ Choose some Algorithms
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/linear_regression.jpg?raw=true)
 
+Gradient Decent
+
+* Our goal is to minimize the random error for the $x_i$ value (this is shown by they yellow line in the image). To do this, we would need to tweat the weights $\beta$ iteratively to minimize the cost function
+* To minimize the cost function, we would need to measure the local gradient of the error function with respect to the the weights $\beta$ and tweak $\beta$ in the direction of the decending gradient. Once the gradient equals zero, you have reached a minimum.
+
 ## Week 4: Supervised Learning: Classification
 
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
