@@ -189,8 +189,16 @@ Here is a graphical explanation of correlation:
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/correlation_graph.jpg?raw=true)
 
-
 ## Week 3: Supervised Learning: Regression
+
+Regression Performance Measures/Metrics
+
+* We need to look at how well a regression performs on a dataset when we look at a Machine Learning model. I have listed a list of regression performance measures below:
+* Mean Square Error
+
+$$
+MSE = \frac{1}{N} = \sum_{i=1}^{N} (y_i-\hat{y})^2
+$$
 
 ## Week 4: Supervised Learning: Classification
 
