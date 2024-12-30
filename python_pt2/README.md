@@ -200,6 +200,20 @@ $$
 MSE = \frac{1}{N} \sum_{i=1}^{N} (y_i-\hat{y})^2
 $$
 
+Choose some Algorithms
+
+* The next step is to identify some good regression algorithms that we can use to train a few models. Here are some examples of Regression Algorithms:
+* Linear Regression: Ordinary Least Squares
+   * Closed form solution (Normal Equation)
+   * Gradient Descent
+* Polynomial Regression
+* Regularized Models
+   * Ridge Regression
+   * Lasso Regression
+* Decision Trees Regression
+* Something else (Support Vector Machines, Neural Networks...)
+* Ensemble Models, Random Forests
+
 ## Week 4: Supervised Learning: Classification
 
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
