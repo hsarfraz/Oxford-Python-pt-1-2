@@ -236,7 +236,7 @@ Classification tasks types
 Performance metrics are a bit tricky for classification. The best way to measure accuracy is to measure the number of correct records over the total records
 
 $$
-accuracy = \frac{# correctly predicted records}{# total records}
+accuracy = \frac{number of correctly predicted records}{number of total records}
 $$
 
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
