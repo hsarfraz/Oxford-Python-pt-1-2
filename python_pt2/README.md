@@ -225,9 +225,19 @@ Stochastic Gradient Descent
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/stochastic_gradient_descent.jpg?raw=true)
 
-
-
 ## Week 4: Supervised Learning: Classification
+
+Classification tasks types
+
+* binary (two classes, generally coded as 0 and 1)
+* multi-class
+* multi-label
+
+Performance metrics are a bit tricky for classification. The best way to measure accuracy is to measure the number of correct records over the total records
+
+$$
+accuracy = \frac{# correctly predicted records}{# total records}
+$$
 
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
 
