@@ -239,6 +239,10 @@ $$
 accuracy = \frac{number of correctly predicted records}{number of total records}
 $$
 
+Logistic Regression
+
+Binary classification (classes 0 and 1) estimates the probability that a sample belongs to a certain class by training a (linear) regressor that will return scores in the ($-\infty , \infty$) interval.
+
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
 
 ## Week 6: Introduction to Neural Networks and Deep Learning
