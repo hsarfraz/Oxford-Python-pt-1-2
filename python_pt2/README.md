@@ -247,6 +247,10 @@ The output will be between 0 and 1. If the output is > 0.5, the class 1 needs to
 
 ![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/logistic_regression_sigmoid_function.jpg?raw=true)
 
+Confusion Matrix Interpretation in Python
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/confusion_matrix_python.jpg?raw=true)
+
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
 
 ## Week 6: Introduction to Neural Networks and Deep Learning
