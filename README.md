@@ -501,7 +501,7 @@ Vectorisation
 
  How to interpret a confusion matrix
 
- <img src="image/1.9_confusion_matrix.jpg" width="700">
+ <img src="image/confusion_matrix_python.jpg" width="700">
 
  How to interpret a classification report
 
