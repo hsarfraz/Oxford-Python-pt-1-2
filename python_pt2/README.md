@@ -241,7 +241,11 @@ $$
 
 Logistic Regression
 
-Binary classification (classes 0 and 1) estimates the probability that a sample belongs to a certain class by training a (linear) regressor that will return scores in the ($-\infty , \infty$) interval.
+Binary classification (classes 0 and 1) estimates the probability that a sample belongs to a certain class by training a (linear) regressor that will return scores in the ($-\infty , +\infty$) interval. The binary classification passes the regressor output to a logistic (sigmoid) function.
+
+The output will be between 0 and 1. If the output is > 0.5, the class 1 needs to be assigned. Otherwise, any output value < 0.5 is assigned the class 0.
+
+![Skills Chart](https://github.com/hsarfraz/Oxford-Python-pt-1-2/blob/main/image/logistic_regression_sigmoid_function.jpg?raw=true)
 
 ## Week 5: More Classification, Decision Trees. Ensemble Methods
 
